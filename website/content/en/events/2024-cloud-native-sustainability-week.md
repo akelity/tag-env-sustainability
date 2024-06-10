@@ -33,9 +33,10 @@ After the successful [Sustainability Week 2023](https://tag-env-sustainability.c
 | 3 | China | TBD | TBD | Sam Yuan
 | 4 | Norway | TBD | TBD | Marta Paciorkowska
 | 5 | Tokyo, Japan | TBD | TBD | Sunyanan Choochotkaew
-| 6 | Milan, Italy | TBD | TBD |  Michel Murabito
+| 6 | Milan, Italy | 30 Sep 2024 | TBD |  Michel Murabito, Valeria Salis, Ludovica Bonaldo
 | 7 | Sao Paulo, Brazil | TBD | TBD | Carol Valenica
 | 8 | India | TBD | TBD | Saiyam
+| 9 | Online, Italy | 7 Oct 2024 | TBD |  Michel Murabito, Valeria Salis, Ludovica Bonaldo
 <!-- cSpell:enable -->
 
 ## Event Goals
